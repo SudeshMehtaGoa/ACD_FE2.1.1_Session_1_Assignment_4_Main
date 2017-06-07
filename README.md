@@ -1,3 +1,12 @@
+-----------------------------------------------------------------------------------------------------------
+# How to Run ACADgild exercise
+
+1. Download project from github
+2. run command "npm install"
+3. run command "ng serve"
+4. in browser open url "http://localhost:4200/"
+
+-----------------------------------------------------------------------------------------------------------
 # Ang2boot3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
